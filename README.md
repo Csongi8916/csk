@@ -1,4 +1,3 @@
 @csongi8916/csk
 
-[![npm (scoped)]
-https://img.shields.io/npm/v/@csongi8916/csk.svg]
+[![npm (scoped)] (https://img.shields.io/npm/v/@csongi8916/csk.svg)]
