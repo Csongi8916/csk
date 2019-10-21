@@ -1,4 +1,14 @@
 {
   "name": "@csongi8916/csk",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "Csongi8916/csk",
+  "main": "index.js",
+  "keywords": [
+    "csk",
+    "npm",
+    "package",
+    "csongi8916"
+  ]
 }
